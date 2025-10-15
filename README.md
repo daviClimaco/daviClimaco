@@ -23,26 +23,26 @@ Sou apaixonado por tecnologia, programação e carros, unindo lógica, criativid
   </a>
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/davibClimaco/">
+    <a href="https://www.linkedin.com/in/davibClimaco/" target="_blank">
       <img 
           alt="Perfil Do LINKEDIN"  
           title="Perfil Do LINKEDIN"
           src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/davibClimaco/">
+    <a href="https://www.linkedin.com/in/davibClimaco/" target="_blank">
         <img 
             alt="Email de Contato"
             title="Email de Contato"
           src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://github.com/daviClimaco?tab=repositories&sort=stargazers">
+    <a href="https://github.com/daviClimaco?tab=repositories&sort=stargazers" target="_blank">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/daviClimaco?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/daviClimaco?tab=followers">
+    <a href="https://github.com/daviClimaco?tab=followers" target="_blank">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
