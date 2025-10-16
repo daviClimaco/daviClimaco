@@ -29,7 +29,7 @@ Sou apaixonado por tecnologia, programação e carros, unindo lógica, criativid
           title="Perfil Do LINKEDIN"
           src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/davibClimaco/" target="_blank">
+    <a href="mailto:davibomfimclimaco@gmail.com" target="_blank">
         <img 
             alt="Email de Contato"
             title="Email de Contato"
