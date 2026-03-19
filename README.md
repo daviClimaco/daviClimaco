@@ -7,7 +7,7 @@
   </a>
 </p>
 
-Olá! Me chamo Davi, tenho 19 anos e atualmente estou no 4º semestre de Engenharia de Software. Seja bem vindo ao meu perfil.  
+Olá! Me chamo Davi, tenho 19 anos e atualmente estou no 5º semestre de Engenharia de Software. Seja bem vindo ao meu perfil.  
 Sou apaixonado por tecnologia, programação e carros, unindo lógica, criatividade e curiosidade para criar, aprender e evoluir constantemente.
 
 - Estudando **Engenharia de Software** na **Unicesumar**  
