@@ -1,13 +1,13 @@
 # Davi Bomfim Climaco
 **`Desenvolvedor FullStack`**
 
-<p align= "center">
+<!-- <p align= "center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=6E8BF7&center=true&width=435&lines=Summoning+Davi+%7C+Class%3A+Developer;Level%3A+19" alt="Typing SVG" />
   </a>
-</p>
+</p> -->
 
-Olá! Me chamo Davi, tenho 19 anos e atualmente estou no 5º semestre de Engenharia de Software. Seja bem vindo ao meu perfil.  
+Olá! Me chamo Davi, tenho 20 anos e atualmente estou no 5º semestre de Engenharia de Software. Seja bem vindo ao meu perfil.  
 Sou apaixonado por tecnologia, programação e carros, unindo lógica, criatividade e curiosidade para criar, aprender e evoluir constantemente.
 
 - Estudando **Engenharia de Software** na **Unicesumar**  
