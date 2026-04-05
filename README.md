@@ -16,15 +16,6 @@ Tools & Practices: Git, REST APIs, Agile Methodologies
 
 ---
 
-## Soft Skills
-Problem Solving  
-Analytical Thinking  
-Team Collaboration  
-Adaptability  
-Continuous Learning  
-
----
-
 ## Experience
 Working on legacy ERP systems, handling maintenance, bug fixing, and implementation of new features.  
 Participating in the migration of legacy applications to web-based solutions, improving usability and system performance.  
