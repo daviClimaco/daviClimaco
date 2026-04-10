@@ -9,7 +9,7 @@ Software Engineering student with experience in web development and legacy syste
 ---
 
 ## Hard Skills
-Frontend: HTML, CSS, JavaScript, Bootstrap, jQuery  
+Frontend: HTML, CSS, JavaScript, jQuery, Bootstrap, KendoUI
 Backend: Java, Progress 4GL  
 Database: MySQL  
 Tools & Practices: Git, REST APIs, Agile Methodologies  
