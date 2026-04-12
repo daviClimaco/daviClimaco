@@ -33,6 +33,12 @@ Software Engineering student with experience in web development and legacy syste
 
 ---
 
+- Data & BI
+  
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-4B8BBE?style=for-the-badge)
+
+---
+
 - Tools & Practices
   
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
