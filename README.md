@@ -4,7 +4,7 @@ Full Stack Developer
 Software Engineering student with experience in web development and legacy system modernization. Focused on building efficient solutions and continuously improving technical skills.
 
 - Software Engineering @ Unicesumar  
-- Full Stack Developer Intern @ B5's Tecnologia  
+- Full Stack Developer @ B5's Tecnologia  
 
 ---
 
