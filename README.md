@@ -4,7 +4,7 @@ Full Stack Developer
 Software Engineering student with experience in web development and legacy system modernization. Focused on building efficient solutions and continuously improving technical skills.
 
 - Software Engineering @ Unicesumar  
-- Full Stack Developer @ B5's Tecnologia  
+- Full Stack Developer 1 @ B5's Tecnologia  
 
 ---
 
@@ -23,13 +23,9 @@ Software Engineering student with experience in web development and legacy syste
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Progress 4GL](https://img.shields.io/badge/Progress%204GL-5C2D91?style=for-the-badge)
 
----
-
 - Database
   
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
----
 
 - Data & BI
   
@@ -37,15 +33,11 @@ Software Engineering student with experience in web development and legacy syste
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-6A5ACD?style=for-the-badge)
 
----
-
 - Tools & Practices
   
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile-29A329?style=for-the-badge)
-
----
 
 ---
 
