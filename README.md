@@ -42,9 +42,17 @@ Software Engineering student with experience in web development and legacy syste
 ---
 
 ## Experience
-Working on legacy ERP systems, handling maintenance, bug fixing, and implementation of new features.  
-Participating in the migration of legacy applications to web-based solutions, improving usability and system performance.  
+Working on legacy ERP systems, handling maintenance, bug fixing, and implementation of new features.
+
+Participating in the migration of legacy applications to web-based solutions, improving usability and system performance.
+
+Strong experience with data extraction and querying to support Business Intelligence initiatives, helping transform raw data into actionable insights.
+
+Collaborating with business users to understand data needs and support dashboard development, ensuring consistency and reliability of information.
+
 Collaborating in an agile environment, contributing to code quality, system integration, and continuous delivery.
+
+Experience solving real-world data problems, such as identifying stock shortages through custom data modeling and cross-table analysis.
 
 ---
 
