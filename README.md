@@ -18,8 +18,6 @@ Software Engineering student with experience in web development and legacy syste
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Kendo UI](https://img.shields.io/badge/KendoUI-FF6358?style=for-the-badge&logo=telerik&logoColor=white)
 
----
-
 - Backend
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
