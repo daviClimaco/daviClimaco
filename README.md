@@ -36,6 +36,8 @@ Software Engineering student with experience in web development and legacy syste
 - Data & BI
   
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-4B8BBE?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-6A5ACD?style=for-the-badge)
 
 ---
 
